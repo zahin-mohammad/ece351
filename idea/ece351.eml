@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/.."/>
+	<lib name="alloy.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/alloy.jar!/"/>
+	</lib>
+	<lib name="jasmin-2.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/jasmin-2.4.jar!/"/>
+	</lib>
+	<lib name="ant-1.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/ant-1.8.2.jar!/"/>
+	</lib>
+	<lib name="ant-junit-1.8.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/ant-junit-1.8.2.jar!/"/>
+	</lib>
+	<lib name="asm-all-5.0.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/asm-all-5.0.4.jar!/"/>
+	</lib>
+	<lib name="parboiled-core-1.1.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/parboiled-core-1.1.7.jar!/"/>
+	</lib>
+	<lib name="parboiled-java-1.1.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/parboiled-java-1.1.7.jar!/"/>
+	</lib>
+	<lib name="batik-anim.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/batik-anim.jar!/"/>
+	</lib>
+	<lib name="batik-css.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/batik-css.jar!/"/>
+	</lib>
+	<lib name="batik-dom.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/batik-dom.jar!/"/>
+	</lib>
+	<lib name="batik-ext.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/batik-ext.jar!/"/>
+	</lib>
+	<lib name="batik-parser.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/batik-parser.jar!/"/>
+	</lib>
+	<lib name="batik-svg-dom.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/batik-svg-dom.jar!/"/>
+	</lib>
+	<lib name="batik-util.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/batik-util.jar!/"/>
+	</lib>
+	<lib name="batik-xml.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/batik-xml.jar!/"/>
+	</lib>
+	<lib name="hamcrest-core-1.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/hamcrest-core-1.3.jar!/"/>
+	</lib>
+	<lib name="hamcrest-generator-1.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/hamcrest-generator-1.3.jar!/"/>
+	</lib>
+	<lib name="hamcrest-integration-1.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/hamcrest-integration-1.3.jar!/"/>
+	</lib>
+	<lib name="hamcrest-library-1.3.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/hamcrest-library-1.3.jar!/"/>
+	</lib>
+	<lib name="xml-apis-ext.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/../lib/xml-apis-ext.jar!/"/>
+	</lib>
+	<levels>
+		<level name="KotlinJavaRuntime" value="project"/>
+		<level name="lib2" value="project"/>
+	</levels>
+</component>
